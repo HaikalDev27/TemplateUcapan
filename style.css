@@ -25,6 +25,7 @@ body{
 .WaterMark1{
     position: absolute;
     color:var(--text-color);
+    margin-top: 50px;
     padding-top: 50%;
     text-align: center;
 }
